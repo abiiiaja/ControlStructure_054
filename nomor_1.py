@@ -7,4 +7,5 @@ elif performa >= 70:
     print("Good performance")
 elif performa >= 60:
     print("Average performance")
-
+else:
+    print("Poor performance")
